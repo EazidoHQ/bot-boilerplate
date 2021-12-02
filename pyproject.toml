@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "eazido-bot-boilerplate"
+version = "0.0.1"
+description = ""
+authors = ["Oluwafemi Tairu <tairuoluwafemi09@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "3.8.12"
+rasa = "^3.0.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -1,4 +1,4 @@
-FROM rasa/rasa:2.6.3
+FROM rasa/rasa:3.0.0
 
 RUN cd /app
 
